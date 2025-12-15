@@ -1,0 +1,1 @@
+-In block "input transformation" we have to initialize v or simulink doesn't work because it doesnt know the dimension of v.
